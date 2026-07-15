@@ -182,10 +182,6 @@ Este projeto utiliza diversos conceitos fundamentais de Python:
 
 ---
 
-## 📄 Licença
+## 📚 Créditos
 
-Este projeto é de uso livre para fins educacionais e de aprendizado.
-
----
-
-Desenvolvido em **Python** como prática de lógica de programação, manipulação de arquivos e estruturas de controle.
+Projeto do curso **Python Mastery Bootcamp** — [Neps Academy](https://neps.academy).
